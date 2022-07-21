@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Aumarh
-- 👀 I’m interested in creating web awesome applications that prioritise user privacy.
-- 🌱 I’m currently learning how to create using codes
-- 💞️ I’m looking to collaborate...
-- 📫 How to reach me ...
+## 👋 Hey!, I’m Aumarh
+Welcome to my Github portfolio!
+
+- 👩🏽‍💻 Junior full stack web developer.
+- 📍 Located in Austria
+- 👀 I’m interested in creating web awesome applications prioritising user privacy.
+- 💻 6+ years background in Holistic security.
+- 🌱 I’m currently learning JavaScript, TypeScript, PostgreSQL, Node.js, React.js, Next.js, Emotion, Styled Components, TailwindCSS, Bootstrap, Jest, Cypress, Playwright
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oma-ikwueme-02973583/)
+
+
+## Tech Stack
+HTML
 
 <!---
 Aumarh/Aumarh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
