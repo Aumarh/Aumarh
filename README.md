@@ -1,7 +1,7 @@
 ## 👋 Hey! I’m Aumarh.
 Welcome to my Github portfolio!
 
-- 👩🏽‍💻 Junior Full Stack web developer.
+- 👩🏽‍💻 Junior Full Stack Developer.
 - 📍 Located in Austria
 - 👀 I’m interested in creating web awesome applications prioritising user privacy.
 - 💻 6+ years background in Holistic security.
