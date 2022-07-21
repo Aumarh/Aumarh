@@ -3,7 +3,7 @@ Welcome to my Github portfolio!
 
 - 👩🏽‍💻 Junior Full Stack Developer.
 - 📍 Lives in Vienna, Austria.
-- 👀 I’m interested in creating web awesome applications prioritising user privacy.
+- 👀 I’m interested in creating amazing applications prioritising user privacy.
 - 💻 6+ years background in Holistic security.
 - 🌱 I’m currently learning JavaScript, TypeScript, PostgreSQL, Node.js, React.js, Next.js, Emotion, Styled Components, TailwindCSS, Bootstrap, Jest, Cypress, Playwright
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oma-ikwueme-02973583/)
