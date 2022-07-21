@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aumarh
-- 👀 I’m interested in creating.
+- 👀 I’m interested in creating web awesome applications that prioritise user privacy.
 - 🌱 I’m currently learning how to create using codes
 - 💞️ I’m looking to collaborate...
 - 📫 How to reach me ...
