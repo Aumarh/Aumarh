@@ -1,7 +1,7 @@
-## 👋 Hey!, I’m Aumarh
+## 👋 Hey! I’m Aumarh.
 Welcome to my Github portfolio!
 
-- 👩🏽‍💻 Junior full stack web developer.
+- 👩🏽‍💻 Junior Full Stack web developer.
 - 📍 Located in Austria
 - 👀 I’m interested in creating web awesome applications prioritising user privacy.
 - 💻 6+ years background in Holistic security.
@@ -10,7 +10,7 @@ Welcome to my Github portfolio!
 
 
 ## Tech Stack
-HTML
+HTML https://de.wikipedia.org/wiki/HTML5#/media/Datei:HTML5_logo_and_wordmark.svg
 
 <!---
 Aumarh/Aumarh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
