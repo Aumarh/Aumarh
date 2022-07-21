@@ -10,7 +10,7 @@ Welcome to my Github portfolio!
 
 
 ## Tech Stack
-HTML https://de.wikipedia.org/wiki/HTML5#/media/Datei:HTML5_logo_and_wordmark.svg
+`HTML` `CSS` `TypeScript` `JavaScript` `React` `Next.js` `Node.js` `PostgreSQL` `GIT` `GITHUB` `Visual Code Studio`
 
 <!---
 Aumarh/Aumarh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
