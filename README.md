@@ -1,4 +1,5 @@
 ## 👋 Hey! I’m Aumarh.
+😄 Pronouns: she/her
 Welcome to my Github portfolio! <br>
 
 - 👩🏽‍💻 Junior Full Stack Developer.
