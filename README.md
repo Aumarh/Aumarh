@@ -1,9 +1,10 @@
-## 👋 Hey! I’m Aumarh (Pronouns: she/her)
+## 👋 Hey! I’m Aumarh.
 
 Welcome to my Github portfolio! <br>
 
 - 👩🏽‍💻 Junior Full Stack Developer.
 - 📍 Lives in Vienna, Austria.
+- 🙂 Pronouns: she/her
 - 👀 I’m interested in creating amazing applications prioritising user privacy.
 - 💻 6+ years background in Holistic security.
 - 🌱 I’m currently learning JavaScript, TypeScript, PostgreSQL, Node.js, React.js, Next.js, Emotion, Styled Components, TailwindCSS, Bootstrap, Jest, Cypress, Playwright
