@@ -7,7 +7,7 @@ Welcome to my Github portfolio! <br>
 - 🙂 Pronouns: she/her
 - 👀 I’m interested in creating amazing applications prioritising user privacy.
 - 💻 6+ years background in Digital security.
-- 🌱 I’m currently learning JavaScript, TypeScript, PostgreSQL, Node.js, React, Next.js, Emotion, Styled Components, TailwindCSS, Bootstrap, Jest, Cypress, Playwright
+- 🌱 I’m currently working with JavaScript, TypeScript, PostgreSQL, Node.js, Express, React, Next.js, Emotion, Styled Components, TailwindCSS, Bootstrap, Jest, Cypress, Playwright
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oma-ikwueme-02973583/)
 
 
