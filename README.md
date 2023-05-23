@@ -2,7 +2,7 @@
 
 Welcome to my Github portfolio! <br>
 
-- 👩🏽‍💻 Junior Full Stack Developer.
+- 👩🏽‍💻 Full Stack Developer.
 - 📍 Lives in Vienna, Austria.
 - 🙂 Pronouns: she/her
 - 👀 I’m interested in creating amazing applications prioritising user privacy.
